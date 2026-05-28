@@ -15,21 +15,6 @@ Currently in **beta** — [join the waitlist or try it at usegallop.com →](htt
 
 ---
 
-### How it works
-
-```mermaid
-flowchart TD
-    A[Create work\nDeliveries · Pickups · IBTs] --> B{Assign stops}
-    B --> C[Smart Assign\nAI distributes across drivers]
-    B --> D[Manual Assign\nPick vehicle per stop]
-    C --> E[Route Optimization\nAI sequences stops efficiently]
-    D --> E
-    E --> F[Live Tracking\nReal-time driver location & ETAs]
-    F --> G[Proof of Delivery\nPhotos + signatures]
-```
-
----
-
 ### Key features
 
 | | Feature | What it does |
@@ -51,6 +36,21 @@ flowchart TD
 ### See it in action
 
 [![Gallop Demo](https://vumbnail.com/1194057129.jpg)](https://vimeo.com/1194057129)
+
+---
+
+### How it works
+
+```mermaid
+flowchart TD
+    A[Create work\nDeliveries · Pickups · IBTs] --> B{Assign stops}
+    B --> C[Smart Assign\nAI distributes across drivers]
+    B --> D[Manual Assign\nPick vehicle per stop]
+    C --> E[Route Optimization\nAI sequences stops efficiently]
+    D --> E
+    E --> F[Live Tracking\nReal-time driver location & ETAs]
+    F --> G[Proof of Delivery\nPhotos + signatures]
+```
 
 ---
 
