@@ -1,4 +1,4 @@
-#### Nathaniel Y 👋
+## Nathaniel Y 👋
 
 Building **[Gallop](https://usegallop.com)** — intelligent delivery software for modern teams.
 
