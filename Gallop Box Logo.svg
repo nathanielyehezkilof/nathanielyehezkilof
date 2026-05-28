@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3834 1134.5">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        font-family: TTCommons-Medium, 'TT Commons';
+        font-size: 993.5px;
+        font-weight: 500;
+      }
+
+      .cls-3 {
+        fill: #fff;
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 23px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_4" data-name="Layer 4">
+    <rect class="cls-3" x="11.5" y="11.5" width="3811" height="1048" rx="375.04" ry="375.04"/>
+  </g>
+  <g id="Text">
+    <text class="cls-2" transform="translate(1065.28 876.19)"><tspan x="0" y="0">Gallop</tspan></text>
+  </g>
+  <g id="Layer_3" data-name="Layer 3">
+    <path id="Top_Left" data-name="Top Left" class="cls-1" d="M749.65,170.04l-235.1-.08s-236.13-3.6-267.87,258.99c0,0-4.06,51.83,15.21,107.28,0,0,59.7-178.22,250.91-183.14h145.5l91.55-183.23"/>
+    <path id="Top_Right" data-name="Top Right" class="cls-1" d="M658.16,352.75l150.91-.07s109.15.67,158.05,118.26c0,0,34.08,69.72-12.75,157.13,0,0-46.05-86.55-147.5-92.18h-240.63"/>
+    <path id="Bottom" class="cls-1" d="M566.16,718.79h240.63c101.46-5.63,147.5-92.18,147.5-92.18,46.83,87.41,12.75,157.13,12.75,157.13-48.91,117.58-158.05,118.26-158.05,118.26l-150.91-.07,91.59-.05-235.1.08s-236.13,3.6-267.87-258.99c0,0-4.06-51.83,15.21-107.28,0,0,59.7,178.22,250.91,183.14h145.5l91.55,183.23"/>
+  </g>
+</svg>
