@@ -1,12 +1,20 @@
-Nathaniel 👋
+### Nathaniel Y 👋
+
+Building **[Gallop](https://usegallop.com)** — intelligent delivery software for modern teams.
 
 ---
 
-## 📂 Main Project
+## 🚀 Main Project
 
-| Project | Description |
-|--------|------------|
-| 🔗 [Gallop](usegallop.com) | The intelligent Delivery Software for Modern Teams |
+<a href="https://usegallop.com">
+  <img src="https://raw.githubusercontent.com/nathanielyehezkilof/nathanielyehezkilof/main/Gallop%20Box%20Logo.svg" alt="Gallop" width="320" />
+</a>
+
+<br><br>
+
+**[Gallop](https://usegallop.com)** is intelligent delivery software built for modern teams — fast, smart, and designed to get things where they need to go.
+
+[![Visit Site](https://img.shields.io/badge/usegallop.com-Visit%20Site-black?style=flat-square)](https://usegallop.com)
 
 ---
 
